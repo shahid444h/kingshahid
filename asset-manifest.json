@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kingshahid/static/css/main.30ce97e0.css",
+    "main.js": "/kingshahid/static/js/main.ee51f6e7.js",
+    "static/js/787.81dc7098.chunk.js": "/kingshahid/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/kingshahid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kingshahid/index.html",
+    "main.30ce97e0.css.map": "/kingshahid/static/css/main.30ce97e0.css.map",
+    "main.ee51f6e7.js.map": "/kingshahid/static/js/main.ee51f6e7.js.map",
+    "787.81dc7098.chunk.js.map": "/kingshahid/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ce97e0.css",
+    "static/js/main.ee51f6e7.js"
+  ]
+}
